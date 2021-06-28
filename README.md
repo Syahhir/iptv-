@@ -24,3 +24,4 @@ http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
 
 Mnet Korean
 http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
