@@ -26,4 +26,4 @@ http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 ,Disney Junior,
 http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
 #EXTINF:-1 ,MALAYSIA
-https://iptv-org.github.io/iptv/countries/my.m3u
+http://iptv.tvmalaysia.cc:80/737373/737373/8750
