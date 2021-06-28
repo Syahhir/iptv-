@@ -7,25 +7,20 @@ http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
 http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
 #EXTINF:-1 ,CBeebies,
 http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
-Kpop Tv
+#EXTINF:-1 ,Kpop Tv
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
-
-JBTC KOREAN
+#EXTINF:-1 ,JBTC KOREAN
 http://51.81.66.195:1935/krtv/jtbc_540/playlist.m3u8
-
-Arirang Tv
+#EXTINF:-1 ,Arirang Tv
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-
-KBS 2
+#EXTINF:-1 ,KBS 2
 http://51.81.66.195:1935/krtv/kbs2_540/playlist.m3u8
-
-KBS 1
+#EXTINF:-1 ,KBS 1
 http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8
-
-Mnet Korean
+#EXTINF:-1 ,Mnet Korean
 http://51.81.66.195:1935/krtv/mnet_540/playlist.m3u8
 #EXTINF:-1 ,TV3
-http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+http://50.7.161.82:8278/streams/d/TV3/playlist.
 #EXTINF:-1 ,Disney Channel,
 http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
 #EXTINF:-1 ,Disney Junior,
