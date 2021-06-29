@@ -81,3 +81,39 @@ http://iptv.tvmalaysia.cc:80/737373/737373/6730
 http://iptv.tvmalaysia.cc:80/737373/737373/8872
 #EXTINF:-1 ,ARENA SPORT 1
 http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-id="astroria.my" tvg-name="ASTRO Ria HD" tvg-logo="http://tvmalaysia.cc:80/images/92d374077520f51a0bbcc2316400b160.png" group-title="LIVE | ASTRO",ASTRO Ria HD
+http://iptv.tvmalaysia.cc:80/737373/737373/6730
+#EXTINF:-1 tvg-id="astroprima.my" tvg-name="ASTRO Prima HD" tvg-logo="http://tvmalaysia.cc:80/images/a004afb90cb82b79aa75399df806306a.png" group-title="LIVE | ASTRO",ASTRO Prima HD
+http://iptv.tvmalaysia.cc:80/737373/737373/6727
+#EXTINF:-1 tvg-id="astrowarna.my" tvg-name="ASTRO Warna HD" tvg-logo="http://tvmalaysia.cc:80/images/5b79d07a6bc50bc8ebebd635cb09c195.png" group-title="LIVE | ASTRO",ASTRO Warna HD
+http://iptv.tvmalaysia.cc:80/737373/737373/6740
+#EXTINF:-1 tvg-id="astrocitra.my" tvg-name="Astro Citra HD (subtitle)" tvg-logo="http://tvmalaysia.cc:80/images/d5f15dd37f6373993e7ce1bbf5865cde.png" group-title="LIVE | ASTRO",Astro Citra HD (subtitle)
+http://iptv.tvmalaysia.cc:80/737373/737373/7267
+#EXTINF:-1 tvg-id="boo.my" tvg-name="Astro Boo" tvg-logo="http://tvmalaysia.cc:80/images/f2def2608fa005a5a09534d4edd51576.jpg" group-title="LIVE | ASTRO",Astro Boo
+http://iptv.tvmalaysia.cc:80/737373/737373/8872
+#EXTINF:-1 tvg-id="naura.my" tvg-name="ASTRO Naura HD" tvg-logo="http://tvmalaysia.cc:80/images/3fc806e53327b40380da6ee1da935b08.png" group-title="LIVE | ASTRO",ASTRO Naura HD
+http://iptv.tvmalaysia.cc:80/737373/737373/6724
+#EXTINF:-1 tvg-id="astrooasis.my" tvg-name="ASTRO Oasis HD" tvg-logo="http://tvmalaysia.cc:80/images/204c81bf83a076777488ae8222c4e7d4.png" group-title="LIVE | ASTRO",ASTRO Oasis HD
+http://iptv.tvmalaysia.cc:80/737373/737373/6725
+#EXTINF:-1 tvg-id="astroaura.my" tvg-name="ASTRO Aura HD" tvg-logo="http://tvmalaysia.cc:80/images/5e587cd56b42bd16285dfddb2c63c5e7.png" group-title="LIVE | ASTRO",ASTRO Aura HD
+http://iptv.tvmalaysia.cc:80/737373/737373/6713
+#EXTINF:-1 tvg-id="astrorania.my" tvg-name="ASTRO Rania HD" tvg-logo="http://tvmalaysia.cc:80/images/04b0e81075a4d2dc4d9dba2411a42b77.png" group-title="LIVE | ASTRO",ASTRO Rania HD
+http://iptv.tvmalaysia.cc:80/737373/737373/6729
+#EXTINF:-1 tvg-id="astroawani.my" tvg-name="ASTRO Awani HD" tvg-logo="http://tvmalaysia.cc:80/images/3bee1d8c69f8fd72b53dba6e2feef0f7.png" group-title="LIVE | ASTRO",ASTRO Awani HD
+http://iptv.tvmalaysia.cc:80/737373/737373/6714
+#EXTINF:-1 tvg-id="astroceria.my" tvg-name="ASTRO Ceria HD" tvg-logo="http://tvmalaysia.cc:80/images/0bb9f1ec6575c3609eb8af6c1ba0e154.jpg" group-title="LIVE | ASTRO",ASTRO Ceria HD
+http://iptv.tvmalaysia.cc:80/737373/737373/6715
+#EXTINF:-1 tvg-id="MY: ABC AUSTRALIA" tvg-name="ABC Australia" tvg-logo="http://tvmalaysia.cc:80/images/cd8015182af2a1350c156be7f4913720.jpg" group-title="LIVE | ASTRO",ABC Australia
+http://iptv.tvmalaysia.cc:80/737373/737373/6692
+#EXTINF:-1 tvg-id="asianfoodchannel.id" tvg-name="Asian Food Network HD" tvg-logo="http://tvmalaysia.cc:80/images/b6c0bc890beff0eeadf6c10e6c9d4d5d.png" group-title="LIVE | ASTRO",Asian Food Network HD
+http://iptv.tvmalaysia.cc:80/737373/737373/6693
+#EXTINF:-1 tvg-id="MY: AL JAZEERA ENGLISH HD" tvg-name="Al-Jazzera HD" tvg-logo="http://tvmalaysia.cc:80/images/6b5c24b51f9610a805f03c93ecff9d5b.jpg" group-title="LIVE | ASTRO",Al-Jazzera HD
+http://iptv.tvmalaysia.cc:80/737373/737373/6694
+#EXTINF:-1 tvg-id="MY: ANIMAL PLANET HD" tvg-name="Animal Planet HD" tvg-logo="https://i.postimg.cc/y8snFtsP/dd44e1a-fffbc72e-47e7-4029-9a46-dbf8843c8981.png" group-title="LIVE | ASTRO",Animal Planet HD
+http://iptv.tvmalaysia.cc:80/737373/737373/6695
+#EXTINF:-1 tvg-id="animax.my" tvg-name="Animax" tvg-logo="http://tvmalaysia.cc:80/images/3177be485607747ef576c771c168fefe.png" group-title="LIVE | ASTRO",Animax
+http://iptv.tvmalaysia.cc:80/737373/737373/6696
+#EXTINF:-1 tvg-id="MY: ANIPLUS" tvg-name="Aniplus HD" tvg-logo="https://i.postimg.cc/dtQMKrQQ/ZZ-Pw-KWt-400x400.jpg" group-title="LIVE | ASTRO",Aniplus HD
+http://iptv.tvmalaysia.cc:80/737373/737373/6697
+#EXTINF:-1 tvg-id="MY: ADITHYA" tvg-name="ASTRO Adithya" tvg-logo="https://i.postimg.cc/dVvbwf2y/55fb00a28ead0e79178b5e39.jpg" group-title="LIVE | ASTRO",ASTRO Adithya
