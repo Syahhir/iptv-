@@ -70,3 +70,5 @@ http://50.7.161.82:8278/streams/d/TV1/playlist.m3u8
 http://50.7.161.82:8278/streams/d/TV2/playlist.m3u8
 #EXTINF:-1 ,TV3
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+#EXTINF:-1 ,KBS DRAMA
+https://kbsndrama.gscdn.kbs.co.kr/kbsndrama-02/kbsndrama-02_sd.m3u8?Expires=1623201559&Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9rYnNuZHJhbWEuZ3NjZG4ua2JzLmNvLmtyL2tic25kcmFtYS0wMi9rYnNuZHJhbWEtMDJfc2QubTN1OCIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTYyMzIwMTU1OX19fV19&Signature=WN9xo6N3ITXNKfQ-3cxfQ4INsDQX4E6ymG5CfbJZIjFEyjCrc3UvKlKJFiTudx7M8sZkPctXOZX6IeBnvTLqSSP1N9O0lNb0agufhqaJmTdrXf9ynygKYwwIU4KXeAGtWOOrYFITpqru~usEHnKpFr35vYMh1-kLWawBuF9yDHgmi1PV7-UAcBaebGzHVFCAI3acc9v4227swvEO6EDee-j0Pp-IKMMgY~YpLAryn52kY6k060kS705DbvOt3x1faCmRVMbpYBFbbECcf3n4NXpBcJHoY3NurLmPq1fmyV1DL5dz0Nzh6IdWuP2f9Jbq4mWwycjrHcQBEgnCdWJDkQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA
