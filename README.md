@@ -79,3 +79,5 @@ http://iptv.tvmalaysia.cc:80/737373/737373/6726
 http://iptv.tvmalaysia.cc:80/737373/737373/6730
 #EXTINF:-1 ,ASTRO BOO
 http://iptv.tvmalaysia.cc:80/737373/737373/8872
+#EXTINF:-1 ,ARENA SPORT 1
+http://77.83.117.60:8888/02_SPORTTV_1_720p/chunklist.m3u8
