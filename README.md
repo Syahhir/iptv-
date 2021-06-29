@@ -76,3 +76,5 @@ http://iptv.tvmalaysia.cc:80/737373/737373/6803
 http://iptv.tvmalaysia.cc:80/737373/737373/6696
 #EXTINF:-1 ,ASTRO OH!K
 http://iptv.tvmalaysia.cc:80/737373/737373/6726
+#EXTINF:-1 ,ASTRO RIA
+http://iptv.tvmalaysia.cc:80/737373/737373/6730
