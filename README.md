@@ -1,3 +1,4 @@
+#EXTINF:-1 ,NICKELODEON
 http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
 #EXTINF:-1 ,Nick Jr,
 http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
@@ -36,8 +37,6 @@ http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
 #EXTINF:-1 ,Astro Bernama
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-#EXTINF:-1 ,Astro Boo
-http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8
 #EXTINF:-1 ,Astro Ceria
 http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
 #EXTINF:-1 ,Astro Citra
@@ -78,3 +77,5 @@ http://iptv.tvmalaysia.cc:80/737373/737373/6696
 http://iptv.tvmalaysia.cc:80/737373/737373/6726
 #EXTINF:-1 ,ASTRO RIA
 http://iptv.tvmalaysia.cc:80/737373/737373/6730
+#EXTINF:-1 ,ASTRO BOO
+http://iptv.tvmalaysia.cc:80/737373/737373/8872
