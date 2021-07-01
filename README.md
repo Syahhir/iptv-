@@ -1,4 +1,4 @@
-#EXTINF:-1 CARTOON NETWORK
+#EXTINF:-1 ,CARTOON NETWORK
 http://iptv.tvmalaysia.cc:80/737373/737373/6757
 #EXTINF:-1 ,NICKELODEON
 http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
@@ -119,3 +119,5 @@ http://iptv.tvmalaysia.cc:80/737373/737373/6696
 #EXTINF:-1 tvg-id="MY: ANIPLUS" tvg-name="Aniplus HD" tvg-logo="https://i.postimg.cc/dtQMKrQQ/ZZ-Pw-KWt-400x400.jpg" group-title="LIVE | ASTRO",Aniplus HD
 http://iptv.tvmalaysia.cc:80/737373/737373/6697
 #EXTINF:-1 tvg-id="MY: ADITHYA" tvg-name="ASTRO Adithya" tvg-logo="https://i.postimg.cc/dVvbwf2y/55fb00a28ead0e79178b5e39.jpg" group-title="LIVE | ASTRO",ASTRO Adithya
+#EXTINF:-1 , DISCOVERY ASIA
+http://122.155.180.8:5021/stream/d/discoveryasia/playlist.m3u8
