@@ -116,14 +116,3 @@ http://iptv.tvmalaysia.cc:80/737373/737373/6695
 http://iptv.tvmalaysia.cc:80/737373/737373/6696
 #EXTINF:-1 tvg-id="MY: ANIPLUS" tvg-name="Aniplus HD" tvg-logo="https://i.postimg.cc/dtQMKrQQ/ZZ-Pw-KWt-400x400.jpg" group-title="LIVE | ASTRO",Aniplus HD
 http://iptv.tvmalaysia.cc:80/737373/737373/6697
-#EXTINF:-1 tvg-id="MY: ADITHYA" tvg-name="ASTRO Adithya" tvg-logo="https://i.postimg.cc/dVvbwf2y/55fb00a28ead0e79178b5e39.jpg" group-title="LIVE | ASTRO",ASTRO Adithya
-EXTINF:-1 tvg-logo="http://tvsmagazine.com/images/channels/sm_097.jpg",True Sport HD1
-https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://tvsmagazine.com/images/channels/sm_123.jpg",True Sport HD2
-https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://tvsmagazine.com/images/channels/sm_184.jpg",True Sport HD3
-https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://tvsmagazine.com/images/channels/sm_062.jpg",True Sport HD4
-https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://tvsmagazine.com/images/channels/sm_062.jpg",True Sport HD4
-http://ott-cdn.ucom.am/s81/04.m3u8?fbclid=IwAR0LqJ1-X_STJX9aI5Nvx2GQ7gaNerweS3NdcfIXz-B4Ze7bqV9uTNrGKhk
