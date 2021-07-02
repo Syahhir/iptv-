@@ -118,5 +118,5 @@ http://iptv.tvmalaysia.cc:80/737373/737373/6695
 http://iptv.tvmalaysia.cc:80/737373/737373/6696
 #EXTINF:-1 tvg-id="MY: ANIPLUS" tvg-name="Aniplus HD" tvg-logo="https://i.postimg.cc/dtQMKrQQ/ZZ-Pw-KWt-400x400.jpg" group-title="LIVE | ASTRO",Aniplus HD
 http://iptv.tvmalaysia.cc:80/737373/737373/6697
-#EXRINF:-1 ,ONE HD
-http://iptv.tvmalaysia.cc:80/737373/737373/6817
+#EXRINF:-1 ,Sony one
+http://185.180.221.194:8278/streams/d/One/playlist.m3u8
