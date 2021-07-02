@@ -75,6 +75,7 @@ http://iptv.tvmalaysia.cc:80/737373/737373/6803
 http://iptv.tvmalaysia.cc:80/737373/737373/6696
 #EXTINF:-1 ,ASTRO OH!K
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
+#EXTINF:-1 ,TV N
 #EXTINF:-1 ,ASTRO RIA
 http://iptv.tvmalaysia.cc:80/737373/737373/6730
 #EXTINF:-1 ,ASTRO BOO
