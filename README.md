@@ -122,3 +122,5 @@ http://iptv.tvmalaysia.cc:80/737373/737373/6697
 http://185.180.221.194:8278/streams/d/One/playlist.m3u8
 #EXTINF:-1 , ONE HD
 http://iptv.tvmalaysia.cc:80/737373/737373/6817
+#EXTINF:-1 ,GMM 25
+https://cdn6.goprimetime.info/feed//chgmm/playlist.m3u8
