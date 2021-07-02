@@ -76,7 +76,7 @@ http://iptv.tvmalaysia.cc:80/737373/737373/6696
 #EXTINF:-1 ,ASTRO OH!K
 http://50.7.161.82:8278/streams/d/Ohk/playlist.m3u8
 #EXTINF:-1 ,TV N
-http://185.180.221.194:8278/streams/d/TVN/playlist.m3u8
+http://iptv.tvmalaysia.cc:80/737373/737373/8865
 #EXTINF:-1 ,ASTRO RIA
 http://iptv.tvmalaysia.cc:80/737373/737373/6730
 #EXTINF:-1 ,ASTRO BOO
@@ -118,3 +118,5 @@ http://iptv.tvmalaysia.cc:80/737373/737373/6695
 http://iptv.tvmalaysia.cc:80/737373/737373/6696
 #EXTINF:-1 tvg-id="MY: ANIPLUS" tvg-name="Aniplus HD" tvg-logo="https://i.postimg.cc/dtQMKrQQ/ZZ-Pw-KWt-400x400.jpg" group-title="LIVE | ASTRO",Aniplus HD
 http://iptv.tvmalaysia.cc:80/737373/737373/6697
+#EXRINF:-1 ,ONE HD
+http://iptv.tvmalaysia.cc:80/737373/737373/6817
