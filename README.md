@@ -163,3 +163,5 @@ http://iptv.tvmalaysia.cc:80/624850/624850/6765
 #EXTINF:-1,Cinemax HD 
 http://iptv.tvmalaysia.cc:80/624850/624850/6764 
 #EXTINF:-1,Celestial Movies HD
+#EXTINF:-1 , TV3
+http://iptv.tvmalaysia.cc:80/737373/737373/7266
