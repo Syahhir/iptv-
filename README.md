@@ -34,7 +34,7 @@ http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
 #EXTINF:-1 ,Animal Planet
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
 #EXTINF:-1 ,Astro Awani
-http://50.7.161.82:8278/streams/d/Awani/playlist.m3u8
+https://list.iptvcat.com/my_list/s/7fcebc610e2722fe16f5b3b2c6ad4469.m3u8
 #EXTINF:-1 ,Astro Bernama
 http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
 #EXTINF:-1 ,Astro Ceria
