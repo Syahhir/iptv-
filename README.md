@@ -165,3 +165,15 @@ http://iptv.tvmalaysia.cc:80/624850/624850/6764
 #EXTINF:-1,Celestial Movies HD
 #EXTINF:-1 , TV3
 http://iptv.tvmalaysia.cc:80/737373/737373/7266
+#EXTINF:-1 tvg-id="ALTV.th" tvg-name="ALTV" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.altv.tv/_nuxt/img/84f4d59.png" group-title="",ALTV (1080p)
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-id="ASTVNews1.th" tvg-name="ASTV News 1" tvg-country="TH" tvg-language="" tvg-logo="" group-title="Local",ASTV News 1 (1080p)
+http://news1.live14.com/stream/news1.m3u8
+#EXTINF:-1 tvg-id="Channel5.th" tvg-name="Channel 5" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.tv5.co.th/tv5hd1-web/img/tv5hd1_logo_light.png" group-title="",Channel 5 (240p)
+https://tc-live1.sanook.com/live/22302_ch5.m3u8
+#EXTINF:-1 tvg-id="Channel7.th" tvg-name="Channel 7" tvg-country="TH" tvg-language="Thai" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/BBTV_Channel_7.png" group-title="",Channel 7 (240p)
+https://bcovlive-a.akamaihd.net/2d37038b355f4ea6a6b0d46993dc285c/ap-southeast-1/5282994675001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="Channel8.th" tvg-name="Channel 8" tvg-country="TH" tvg-language="Thai" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" group-title="",Channel 8 (720p)
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+#EXTINF:-1 tvg-id="DLTV1.th" tvg-name="DLTV 1" tvg-country="TH" tvg-language="Thai" tvg-logo="https://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-01.png" group-title="",DLTV 1 (720p)
+https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
