@@ -134,3 +134,5 @@ http://iptv.tvmalaysia.cc:80/624850/624850/6722
 http://iptv.tvmalaysia.cc:80/624850/624850/6721 
 #EXTINF:-1,ASTRO Oh!K HD 
 http://iptv.tvmalaysia.cc:80/624850/624850/6726 
+#EXTINF:-1,NICKELODEON FHD (DUAL AUDIO)
+http://pdsrv.io:25461/francisco1/francisco1/11526
